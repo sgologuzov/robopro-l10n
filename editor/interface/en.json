@@ -547,6 +547,8 @@
     "gui.device.k210Maixduino.connectingMessage": "Connecting",
     "gui.device.raspberryPiPicoIconURL.description": "The powerful, flexible microcontroller board.",
     "gui.device.raspberryPiPicoIconURL.connectingMessage": "Connecting",
+    "gui.device.roboProBot.description": "Robot",
+    "gui.device.roboProStation.description": "Conrol Station",
     "gui.extension.music.name": "Music",
     "gui.extension.music.description": "Play instruments and drums.",
     "gui.extension.pen.name": "Pen",
